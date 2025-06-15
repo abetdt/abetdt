@@ -27,7 +27,7 @@
 
 ## Languages and Tools
 
-<img src="assets/languages.png" height="36" />
+<img src="assets/languages.png" width="100" />
 <img src="assets/database.png" height="36" />
 <img src="assets/linux-git.png" height="36" />
 
